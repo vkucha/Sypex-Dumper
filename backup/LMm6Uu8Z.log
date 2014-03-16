@@ -1,0 +1,5 @@
+2014.03.16 11:56:36	1	Початок імпорту БД `stroj_spletnia`
+2014.03.16 11:56:36	1	Файл: spletnica_2014-03-16_11-52-38.sql.bz2
+2014.03.16 11:56:37	1	Встановлено кодування з’єднання: `binary`
+2014.03.16 11:56:37	1	Імпорт таблиці `_cities`
+2014.03.16 12:06:38	4	Warning: fseek(): stream does not support seeking (/home/home/project/spletnica/sxd/index.php:550)
